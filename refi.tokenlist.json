@@ -1,0 +1,79 @@
+{
+  "name": "ReFi / Impact DAOs",
+  "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+  "keywords": [
+    "audited",
+    "verified",
+    "special tokens"
+  ],
+  "tags": {
+    "refi": {
+      "name": "ReFi",
+      "description": "Tokens for DAOs focused on the creation of common goods"
+    },
+    "impact-dao": {
+      "name": "Impact DAO",
+      "description": "Tokens for DAOs focused on the creation of common goods"
+    },
+    "public-goods": {
+      "name": "Impact DAO",
+      "description": "Tokens for DAOs focused on the creation of common goods"
+    }
+  },
+  "timestamp": "2020-06-12T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f",
+      "symbol": "GTC",
+      "name": "Gitcoin",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/15810/thumb/gitcoin.png?1621992929",
+      "tags": [
+        "impact-dao",
+        "public-goods"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x900db999074d9277c5da2a43f252d74366230da0",
+      "symbol": "GIV",
+      "name": "Giveth",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/21792/thumb/GIVToken_200x200.png?1640055088",
+      "tags": [
+        "impact-dao",
+        "public-goods"
+      ]
+    },
+    {
+      "chainId": 10,
+      "address": "0x4200000000000000000000000000000000000042",
+      "symbol": "OP",
+      "name": "Optimism",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25244/small/OP.jpeg?1651026279",
+      "tags": [
+        "impact-dao",
+        "public-goods"
+      ]
+    },
+    {
+      "chainId": 10,
+      "address": "0x3c8B650257cFb5f272f799F5e2b4e65093a11a05",
+      "symbol": "VELO",
+      "name": "Velodrome",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/25783/small/velo.png?1653817876",
+      "tags": [
+        "impact-dao",
+        "re-fi"
+      ]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
